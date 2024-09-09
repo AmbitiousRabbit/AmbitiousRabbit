@@ -25,7 +25,7 @@ I like movies, music, games, language and cultural learning, archery, all things
 
 💬 Ask me about **My TripleTen's Experience, PA assistant, Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **From English to Korean, I was able to translate various circumstances for fellow exchange students in Korea whether it was to dine-in with a big party for KBBQ or Bar-Hopping to getting people out of a sticky situation.**
+⚡ Fun fact ** I was :us:-:kr: 'local diplomat' translating various circumstances for fellow exchange students in Korea from ordering for a big KBBQ or Bar-Hopping party to getting people out of a sticky situation.**
 
  </div>
  
