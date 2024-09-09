@@ -1,22 +1,31 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmbitiousRabbit.AmbitiousRabbit" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What+It+Do+There!+👀;+I'm+Elise+Mathis!+🐇;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What+It+Do!+👀;+I'm+Elise+Mathis!+🐇;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Motion Picture Scientist from Texas 🤠</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+Hey, y'all! I'm Elise and I've wanted to start programming for a long time and was blessed by prior analytical roles to steer into it.
+    
+So I've always been a person that if I didn't know how to make something, I'd find out how to make it. Thus, my dormant code-cracking, data-analytical sleuth side finally rose.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+I have a bachelor's degree in Mass Communication with an emphasis in Film Studies and was previously, during the quarantine era, working on production sets to logistics as an assistant for managers. So naturally when I explored programming I wanted to be on the more visual storytelling and retail/e-commerce side of things, and so my focus is to learn more about advanced machine learning (i.e. DL), NLTP, and Computer Vision.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+I am on track to graduate from TripleTen's Data Science Program and I'm hoping to enter the market from now until early 2025 as a Data Scientist!
+
+I like movies, music, games, language and cultural learning, archery, all things narrative, and love to create.
+ 
+ 🔭 I’m currently working on **few user-segmentation projects heavily based on entertainment or e-commerce**
+ 
+ 🌱 I’m currently learning **AWS, HTML, CSS, C++**
+
+💬 Ask me about **My TripleTen's Experience, PA assistant, Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact ** From English to Korean, I was able to translate various circumstances for fellow exchange students in Korea whether it was to dine-in with a big party for KBBQ or Bar-Hopping to getting people out of a sticky situation. **
 
  </div>
  
@@ -24,10 +33,10 @@
   <a href="mailto:elisemathis3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/elise-mathis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/AmbitiousRabbit/Portfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
