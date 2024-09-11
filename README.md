@@ -71,5 +71,3 @@ I like movies, music, games, language and cultural learning, archery, all things
   
   <br/><br/><br/>
 </div>
-
-<hr/>
