@@ -48,7 +48,7 @@ I like movies, music, games, language and cultural learning, archery, all things
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow,vscode,github" />
     <img src="https://skillicons.dev/icons?i=flask" />
-    ![image]({https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white})<br>
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" /><br>
 </div>
 
 <br/>
