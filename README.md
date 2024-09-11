@@ -11,8 +11,6 @@
 <div align="center">
 Hey, y'all! I'm Elise and I've wanted to start programming for a long time and was blessed by prior analytical roles to steer into it. So I've always been a person that if I didn't know how to make something, I'd find out how to make it. Thus, my dormant code-cracking, data-analytical sleuth side finally rose.
 
-
-
 I have a bachelor's degree in Mass Communication with an emphasis in Film Studies and was previously, during the quarantine era, working on production sets to logistics as an assistant for managers. So naturally when I explored programming I wanted to be on the more visual storytelling and retail/e-commerce side of things, and so my focus is to learn more about advanced machine learning (i.e. DL), NLTP, and Computer Vision.
 
 I am on track to graduate from TripleTen's Data Science Program and I'm hoping to enter the market from now until early 2025 as a Data Scientist! I like movies, music, games, language and cultural learning, archery, all things narrative, and love to create.
